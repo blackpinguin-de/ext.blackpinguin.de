@@ -1,0 +1,8 @@
+./beta1280.jpg		http://www.widescreengamingforum.com/forum/viewtopic.php?p=135503#p135503
+./beta3840.jpg		"
+./desk080215.jpg	http://www.widescreengamingforum.com/forum/viewtopic.php?p=144989#p144989
+./desk081113.jpg	http://www.widescreengamingforum.com/forum/viewtopic.php?p=145106#p145106
+./hor+comp.jpg		http://www.widescreengamingforum.com/forum/viewtopic.php?p=135543#p135543
+./wg1280.jpg		http://www.widescreengamingforum.com/forum/viewtopic.php?p=145738#p145738
+./wg3840.jpg		"
+./wp/*			http://www.widescreengamingforum.com/forum/viewtopic.php?p=135704#p135704

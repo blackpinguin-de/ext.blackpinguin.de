@@ -1,0 +1,10 @@
+[main]
+Description=VPN-Zugang von Außen: Verschlüsselt nur den Verkehr in die HAW! Andere Verbindungen gehen nicht durch diesen Tunnel.
+!Host=vpngate.haw-hamburg.de
+!AuthType=1
+!GroupName=netsplit
+GroupPwd=
+!enc_GroupPwd=16634A112B278A923716CA44DE1D355F187E619B98E48D4FF844B3C2F7E4DBAE43608390542F286CBEAFAACE2A9F2A53E64997CB1AA17C6C
+EnableNat=0
+UserPassword=
+enc_UserPassword=
